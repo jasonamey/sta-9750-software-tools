@@ -1,5 +1,5 @@
 ---
-title: "YOUR TITLE GOES HERE"
+title: "Jason Amey - STA 9750 Fall 2024"
 ---
 
-# Jason Amey 
+## Hi my name is Jason Amey. 

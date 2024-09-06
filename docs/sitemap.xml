@@ -1,3 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://jasonamey.github.io/STA9750-2024-FALL/sandbox/sample_quarto.html</loc>
+    <lastmod>2024-09-05T23:53:16.256Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jasonamey.github.io/STA9750-2024-FALL/sandbox/sample_doc.html</loc>
+    <lastmod>2024-09-06T00:05:03.050Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jasonamey.github.io/STA9750-2024-FALL/sandbox/houston_housing_market.html</loc>
+    <lastmod>2024-09-06T00:18:22.791Z</lastmod>
+  </url>
 </urlset>
